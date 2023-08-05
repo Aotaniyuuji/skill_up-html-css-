@@ -10,23 +10,3 @@ header {
   background-color: #EC715F;
 }
 
-.header {
-  width: 90%;
-  height: 50px;
-  line-height: 50px;
-}
-
-h1 {
-  display: inline-block;
-}
-
-
-.nav-list {
-  display: flex;
-  display: inline-block;
-  font-size: 16px;
-  color: #FAFAFA;
-  margin: 0 30px;
-  line-height: 70px;
-  list-style: none;
-}

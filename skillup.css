@@ -18,6 +18,10 @@ header {
 
 }
 
+.nav-list {
+  text-align: right;
+}
+
 .nav-list-item {
   padding: 0 30px;
   display: inline-block;

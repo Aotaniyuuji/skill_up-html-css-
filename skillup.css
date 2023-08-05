@@ -12,10 +12,13 @@ header {
 
 .header-group {
   width: 1024px;
+  display: flex;
+  justify-content: space-between;
 }
 
-.header-logo {
-
+.logo {
+  width: 20%;
+  color: #FAFAFA;
 }
 
 .nav-list {
@@ -27,4 +30,5 @@ header {
   display: inline-block;
   color: #FAFAFA;
   font-size: 16px;
+  line-height:70px;
 }

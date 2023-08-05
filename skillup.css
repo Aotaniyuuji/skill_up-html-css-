@@ -10,8 +10,17 @@ header {
   background-color: #EC715F;
 }
 
+.header-group {
+  width: 1024px;
+}
+
+.header-logo {
+
+}
+
 .nav-list-item {
   padding: 0 30px;
   display: inline-block;
-  color: #ffffff;
+  color: #FAFAFA;
+  font-size: 16px;
 }

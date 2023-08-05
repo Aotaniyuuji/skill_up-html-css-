@@ -10,3 +10,8 @@ header {
   background-color: #EC715F;
 }
 
+.nav-list-item {
+  padding: 0 30px;
+  display: inline-block;
+  color: #ffffff;
+}

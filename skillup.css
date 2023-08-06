@@ -158,5 +158,11 @@ header {
 }
 
 .feature-item-list {
+  width: 320px;
+  height: auto;
   display: inline-block;
+}
+
+.item-title {
+  text-align: center;
 }

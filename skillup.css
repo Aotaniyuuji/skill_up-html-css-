@@ -84,15 +84,19 @@ header {
 .item1 {
   width: 300px;
   height: 300px;
+  margin-right: 10px;
   background-image: url("img/sketch.jpg");
   background-size: cover;
+  background-position: center;
 }
 
 .item2 {
   width: 300px;
   height: 300px;
+  margin-right: 10px;
   background-image: url("img/websuku.png");
   background-size: cover;
+  background-position: center;
 }
 
 .item3 {
@@ -100,25 +104,32 @@ header {
   height: 300px;
   background-image: url("img/write.jpg");
   background-size: cover;
+  background-position: center;
 }
 
 .item4 {
   width: 300px;
   height: 300px;
+  margin: 10px 10px 0 0;
   background-image: url("img/webcamp.png");
   background-size: cover;
+  background-position: center;
 }
 
 .item5 {
   width: 300px;
   height: 300px;
+  margin: 10px 10px 0 0;
   background-image: url("img/talk.jpg");
   background-size: cover;
+  background-position: center;
 }
 
 .item6 {
   width: 300px;
   height: 300px;
+  margin-top: 10px;
   background-image: url("img/webcamp-mother.png");
   background-size: cover;
+  background-position: center;
 }

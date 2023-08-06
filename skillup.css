@@ -155,15 +155,20 @@ header {
 }
 
 .feature-item-list {
+  width: 980px;
+  display: flex;
+  margin: 0 auto;
+}
+
+.feature-item {
   width: 320px;
   margin-right: 10px;
   display: inline-block;
   color: #000000;
 }
 
-.feature-item-list:last-child {
-  margin: 0;
-  padding: 0;
+.feature-item:last-child {
+  margin-right: 0;
 }
 
 .social {

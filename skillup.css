@@ -66,8 +66,13 @@ header {
   margin-bottom: 30px;
   font-size: 32px;
   color: #000000;
-  border-bottom: 3px solid #EC715F;
   text-align: center;
+}
+
+.border {
+  width: 70px;
+  height: 3px;
+  color: #EC715F;
 }
 
 .PF-text {

@@ -11,13 +11,14 @@ header {
 }
 
 .header-group {
+  margin: auto;
   width: 1024px;
   display: flex;
   justify-content: space-between;
 }
 
 .logo {
-  width: 20%;
+  height: 70px;
   color: #FAFAFA;
 }
 

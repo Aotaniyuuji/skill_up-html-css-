@@ -39,3 +39,13 @@ header {
   background-image: url("img/mv.png");
   background-size: cover;
 }
+
+.main-title {
+  font-size: 64px;
+  color: #FAFAFA;
+}
+
+.main-text {
+  font-size: 20px;
+  color: #FAFAFA;
+}

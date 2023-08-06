@@ -55,8 +55,11 @@ header {
 }
 
 .portfolio {
-  width: 920px;
   background-color: #ECEFF1;
+}
+
+.portfolio-content {
+  width: 920px;
   margin: auto;
   padding: 90px 0;
 }
@@ -71,8 +74,7 @@ header {
 
 .border {
   width: 70px;
-  height: 3px;
-  color: #EC715F;
+  border: 3px solid #EC715F;
 }
 
 .PF-text {

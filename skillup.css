@@ -241,16 +241,16 @@ header {
 }
 
 .right-contact-content {
-  width: 170px;
+  width: 180px;
   margin: 0 auto;
 }
 
-.right-contact-content .fa {
+.right-contact-content .fab {
   font-size: 50px;
   margin-right: 20px;
 }
 
-.right-contact-content .fa:last-child {
+.right-contact-content .fab:last-child {
   margin-right: 0;
 }
 

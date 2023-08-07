@@ -180,3 +180,16 @@ header {
 .item-text {
   font-size: 16px;
 }
+
+.profile {
+  background-color: #ECEFF1;
+}
+
+.profile-content {
+  width: 1024px;
+}
+
+.profile-image {
+  width: 250px;
+  height: 250px;
+}

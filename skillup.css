@@ -234,6 +234,7 @@ header {
 }
 
 .left-contact-content {
+  width: 130px;
   margin: 0 auto;
 }
 
@@ -241,13 +242,13 @@ header {
   margin: 0 auto;
 }
 
-.sns-icon {
+.right-contact-content .fa {
   font-size: 50px;
-  display: inline-block;
+  margin-right: 20px;
 }
 
-.sns-icon:nth-child(3) {
-  padding: 0 20px;
+.sns-icon:last-child {
+  padding: 0;
 }
 
 footer {

@@ -234,17 +234,20 @@ header {
 }
 
 .left-contact-content {
-  width: 400px;
   margin: 0 auto;
 }
 
 .right-contact-content {
-  width: 400px;
+  margin: 0 auto;
 }
 
 .sns-icon {
   font-size: 50px;
   display: inline-block;
+}
+
+.sns-icon:nth-child(3) {
+  padding: 0 20px;
 }
 
 footer {

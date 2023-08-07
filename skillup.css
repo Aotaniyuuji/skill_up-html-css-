@@ -196,10 +196,10 @@ header {
 }
 
 .left-content {
-  width: 512px;
+  width: 50%;
 }
 .right-content {
-  width: 512px;
+  width: 50%;
 }
 
 .profile-image {
@@ -219,3 +219,42 @@ header {
   margin-top: 0;
 }
 
+.Contact {
+  width: 800px;
+  margin: auto;
+  padding: 90px 0;
+}
+
+.contact-text {
+  color: #000000;
+}
+
+.contact-group {
+  display: flex;
+}
+
+.left-contact-content {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.right-contact-content {
+  width: 400px;
+}
+
+.sns-icon {
+  font-size: 50px;
+  display: inline-block;
+}
+
+footer {
+  height: 60px;
+  background-color: #EC715F;
+}
+
+.footer {
+  font-size: 16px;
+  color: #FAFAFA;
+  text-align: center;
+  line-height: 60px;
+}

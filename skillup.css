@@ -78,7 +78,8 @@ header {
   color: #EC715F;
 }
 
-.PF-text {
+.text {
+  padding: 30px 0;
   font-size: 16px;
   color: #000000;
   text-align: center;
@@ -146,12 +147,6 @@ header {
   width: 980px;
   padding: 90px 0;
   margin: auto;
-}
-
-.feature-text {
-  text-align: center;
-  padding: 30px 0;
-  color: #000000;
 }
 
 .feature-item-list {

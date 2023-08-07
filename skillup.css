@@ -66,7 +66,6 @@ header {
 
 .content-title {
   padding-bottom: 8px;
-  margin-bottom: 30px;
   font-size: 32px;
   color: #000000;
   text-align: center;
@@ -75,7 +74,8 @@ header {
 .border {
   width: 70px;
   height: 3px;
-  color: #EC715F;
+  margin: 0 auto;
+  background-color: #EC715F;
 }
 
 .text {

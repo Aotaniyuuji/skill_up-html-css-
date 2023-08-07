@@ -230,7 +230,9 @@ header {
 }
 
 .contact-group {
+  width: 800px;
   display: flex;
+  margin: 0 auto;
 }
 
 .left-contact-content {
@@ -239,6 +241,7 @@ header {
 }
 
 .right-contact-content {
+  width: 170px;
   margin: 0 auto;
 }
 
@@ -247,8 +250,8 @@ header {
   margin-right: 20px;
 }
 
-.sns-icon:last-child {
-  padding: 0;
+.right-contact-content .fa:last-child {
+  margin-right: 0;
 }
 
 footer {

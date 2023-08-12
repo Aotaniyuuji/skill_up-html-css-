@@ -273,6 +273,15 @@ footer {
 @media screen and (max-width:767px) {
   header {
     width: 90%;
+    height: 50px;
+  }
+
+  .logo {
+    height: 50px;
+  }
+
+  .nav-list-item {
+    line-height: 50px;
   }
 
   .main-visual {

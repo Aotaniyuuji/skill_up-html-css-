@@ -29,9 +29,13 @@ header {
 .nav-list-item {
   padding: 0 30px;
   display: inline-block;
-  color: #FAFAFA;
   font-size: 16px;
   line-height:70px;
+}
+
+.nav-menu {
+  color: #FAFAFA;
+  text-decoration: none;
 }
 
 .main-visual {
@@ -54,7 +58,7 @@ header {
   text-align: center;
 }
 
-.portfolio {
+.Portfolio {
   background-color: #ECEFF1;
 }
 
@@ -264,4 +268,38 @@ footer {
   color: #FAFAFA;
   text-align: center;
   line-height: 60px;
+}
+
+@media screen and (max-width:767px) {
+  header {
+    width: 90%;
+  }
+
+  .main-visual {
+    width: 90%;
+  }
+
+  .portfolio {
+    width: 90%;
+  }
+
+  .Portfolio {
+    width: 90%;
+  }
+
+  .Feature {
+    width: 90%;
+  }
+
+  .Profile {
+    width: 90%;
+  }
+
+  .Contact {
+    width: 90%;
+  }
+
+  .footer {
+    width: 90%;
+  }
 }

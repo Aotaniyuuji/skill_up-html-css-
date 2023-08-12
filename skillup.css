@@ -280,6 +280,8 @@ footer {
     height: 50px;
   }
 
+/*ここからハンバーガーメニューに関するCSS*/
+/*チェックボックスを非表示にする*/
   .drawer_hidden {
     display: none;
   }

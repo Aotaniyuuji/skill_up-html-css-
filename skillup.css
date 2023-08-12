@@ -280,6 +280,11 @@ footer {
     height: 50px;
   }
 
+  .navigation {
+    width: 90%;
+    height: 50px;
+  }
+
 /*ここからハンバーガーメニューに関するCSS*/
 /*チェックボックスを非表示にする*/
   .drawer_hidden {
@@ -288,8 +293,8 @@ footer {
 
   .drawer_open {
     display: flex;
-    height: 60px;
-    width: 60px;
+    height: 40px;
+    width: 40px;
     justify-content: center;
     align-items: center;
     position: relative;
@@ -306,7 +311,7 @@ footer {
     height: 3px;
     width: 25px;
     border-radius: 3px;
-    background: #333;
+    background: #ffffff;
     transition: 0.5s;
     position: absolute;
   }
